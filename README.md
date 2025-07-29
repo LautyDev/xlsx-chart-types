@@ -17,6 +17,7 @@ Just install the package and TypeScript will automatically use the definitions.
 
 ```typescript
 import XLSXChart, { ChartOptions, ChartType } from "xlsx-chart";
+import "xlsx-chart-types";
 // ...
 ```
 
