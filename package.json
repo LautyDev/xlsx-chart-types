@@ -6,6 +6,11 @@
   "files": [
     "index.d.ts"
   ],
+  "keywords": [
+    "xlsx-chart",
+    "typescript",
+    "type definitions"
+  ],
   "author": "LautyDev (Type Definitions)",
   "license": "MIT",
   "devDependencies": {
