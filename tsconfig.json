@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonjs",
+    "target": "ES6",
+    "noEmit": true,
+    "esModuleInterop": true
+  },
+  "include": ["index.d.ts"]
+}
