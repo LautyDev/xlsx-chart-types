@@ -1,13 +1,5 @@
 declare module "xlsx-chart" {
-  export enum ChartType {
-    Column = "column",
-    Bar = "bar",
-    Line = "line",
-    Area = "area",
-    Radar = "radar",
-    Scatter = "scatter",
-    Pie = "pie"
-  }
+  export type ChartType = 'column' | 'bar' | 'line' | 'area' | 'radar' | 'scatter' | 'pie';
 
   export interface ChartOptions {
     file?: string;
